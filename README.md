@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkillTrack — Skilling Outcomes & Impact Platform
 
 > Prototype for Smart India Hackathon problem statement SIH26135 (Government of Maharashtra): "Difficulties in tracking employment outcomes, skill gaps, and the impact of skilling initiatives".
@@ -55,3 +56,7 @@ Simple signed-token auth with seeded accounts; no refresh, rate limiting, audit 
 - "Unable to connect to the server": start the Flask backend.
 - `python` not found: try `py -m venv venv`.
 - Port in use: change the port in `app.py` / `vite.config.js` and `VITE_API_URL`.
+=======
+# Skilltrack
+A platform to track trainees after their training, including employment, placements, salary growth, skill gaps, and long-term outcomes. It also provides dashboards and insights for trainees, employers, and administrators.
+>>>>>>> 6c5f3c4cf9a28d06bb35a1f5e332856875dbcbf7
